@@ -69,3 +69,6 @@ Purpose
 This project demonstrates how Python and data analysis can be applied to cybersecurity log data to identify patterns that may require further investigation.
 
 It is designed as a beginner-friendly cybersecurity and data-analysis portfolio project.
+
+
+![Cybersecurity Dashboard](cybersecurity-dashboard.png)
